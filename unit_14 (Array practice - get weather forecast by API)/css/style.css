@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    max-width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+}
+.city {
+    margin-top: 20%;
+}
+.out {
+    margin-top: 20%;
+    border: 2px solid green;
+    padding: 0 2px 1px 2px;
+}
+.city-name {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 1.375;
+}
+.price {
+    margin-top: 5px;
+    font-weight: 600;
+    font-size: 30px;
+}
+.icon {
+    margin-top: 16px;
+}
+.description {
+    margin-top: 16px;
+}
+.wind-direction {
+    margin-top: 16px;
+}
+.wind-speed {
+    margin-top: 16px;
+}
+.pressure {
+    margin-top: 16px;
+}
